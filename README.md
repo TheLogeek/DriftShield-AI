@@ -11,7 +11,7 @@
 | Drift Overview | Feature Details |
 |:---:|:---:|
 | ![Drift Overview](screenshots/screenshot-one.PNG) | ![Feature Details](screenshots/screenshot-two.PNG) |
-| **Reference Baselines** | **Raw Inferences** |
+| **Reference Baselines** | **Reference Baselines** |
 | ![Baselines](screenshots/screenshot-three.PNG) | ![Reference Baselines](screenshots/screenshot-four.PNG) |
 
 ## Table of Contents
