@@ -6,9 +6,18 @@
 
 ---
 
+## Screenshots
+
+| Drift Overview | Feature Details |
+|:---:|:---:|
+| ![Drift Overview](screenshots/screenshot-one.PNG) | ![Feature Details](screenshots/screenshot-two.PNG) |
+| **Reference Baselines** | **Raw Inferences** |
+| ![Baselines](screenshots/screenshot-three.PNG) | ![Raw Inferences](screenshots/screenshot-four.PNG) |
+
 ## Table of Contents
 
 - [Overview](#overview)
+- [Screenshots](#screenshots)
 - [Validated Headline Claim](#validated-headline-claim)
 - [Architecture](#architecture)
 - [Project Structure](#project-structure)
