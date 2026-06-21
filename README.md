@@ -12,7 +12,7 @@
 |:---:|:---:|
 | ![Drift Overview](screenshots/screenshot-one.PNG) | ![Feature Details](screenshots/screenshot-two.PNG) |
 | **Reference Baselines** | **Raw Inferences** |
-| ![Baselines](screenshots/screenshot-three.PNG) | ![Raw Inferences](screenshots/screenshot-four.PNG) |
+| ![Baselines](screenshots/screenshot-three.PNG) | ![Reference Baselines](screenshots/screenshot-four.PNG) |
 
 ## Table of Contents
 
