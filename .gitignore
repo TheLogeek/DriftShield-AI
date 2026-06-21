@@ -1,0 +1,32 @@
+# SQLite database (auto-created at runtime)
+driftshield.db
+driftshield.db-shm
+driftshield.db-wal
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node.js artifacts (if any)
+node_modules/
+package-lock.json
+
+# Validation results are versioned, but keep the directory
+validation/results/.gitkeep
